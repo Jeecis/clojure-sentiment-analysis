@@ -1,4 +1,4 @@
-;;
+;; 231RDB342
 ;; I mostly relied on github copilot this time, so all of the comments above the functions are initial prompts. 
 ;; However, I modified the functions to make them work.
 (ns sentiment-analysis
